@@ -1,3 +1,3 @@
 # Write your solution here
-second = Time.now.day
+second = Time.now.minute
 p second
