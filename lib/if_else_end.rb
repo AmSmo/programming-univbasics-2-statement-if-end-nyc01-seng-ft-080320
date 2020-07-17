@@ -1,3 +1,3 @@
 # Write your solution here
-now = Time.now
-p now
+now = Time.now.to_i
+now.even? ? true : false
